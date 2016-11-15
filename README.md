@@ -1,2 +1,1 @@
-# PerceiveRequests
-Check out the README for info on how to submit requests
+# [Click here to create a plugin request](https://github.com/PerceiveDev/PerceiveRequests/issues/new)
